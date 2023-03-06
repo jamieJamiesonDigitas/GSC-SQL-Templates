@@ -1,3 +1,5 @@
+ #Calculate Visiblity using a top 30 index
+ 
  CASE
     when round(position,0) = 1 Then 30
     when round(position,0) = 2 Then 29
